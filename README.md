@@ -1,2 +1,2 @@
-# shopping-carttest
-shopping cart test
+# Shopping-Cart
+This is an Ecomercce
